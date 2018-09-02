@@ -1,0 +1,3 @@
+D:/MyCreation/pointersGameInC/cmake-build-debug/CMakeFiles/pointersGameInC.dir
+D:/MyCreation/pointersGameInC/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/MyCreation/pointersGameInC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
